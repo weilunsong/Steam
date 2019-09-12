@@ -1,2 +1,2 @@
 # Steam
-Steam game recommandation
+Steam game recommendation
